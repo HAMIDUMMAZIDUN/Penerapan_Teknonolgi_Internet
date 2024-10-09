@@ -1,2 +1,2 @@
-# PPenerpan-Teknologi-Internet
+# Penerpan-Teknologi-Internet
 ini merupakan matakuliah PTI
